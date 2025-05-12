@@ -18,10 +18,10 @@ A deep learning model to detect helmets in images using CNNs and bounding boxes.
 
 [🔗 View Project](https://github.com/Johnaaron0108/CNN_Helmet_Pred)
 
-### 😷 Face Mask Classifier
-Classifies whether individuals are wearing face masks properly using image data and TensorFlow.
+### 😷 Fake News Detection
+A machine learning-based system that detects fake news from messages scraped from a Telegram channel using text preprocessing and a pre-trained model.
 
-[🔗 View Project](https://github.com/MLDevX/face-mask-classifier)
+[🔗 View Project](https://github.com/Johnaaron0108/FakeNewsDetect-_Telegram_Msgs)
 
 ---
 
