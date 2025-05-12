@@ -37,7 +37,6 @@ A machine learning-based system that detects fake news from messages scraped fro
 
 <h2>📫 Connect with Me</h2>
 
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 - 💼 LinkedIn: [linkedin.com/in/B.Durgasai_Rohan](https://www.linkedin.com/in/b-durga-sai-rohan-94334a291/)
 - 📧 Email: durgasairohan@gmail.com.com
 
