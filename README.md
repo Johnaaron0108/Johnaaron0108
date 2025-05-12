@@ -35,16 +35,6 @@ A machine learning-based system that detects fake news from messages scraped fro
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MLDevX&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 <h2>📫 Connect with Me</h2>
 
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
