@@ -16,7 +16,7 @@ I'm a passionate machine learning developer who loves solving real-world problem
 ### 🔍 Helmet Detection
 A deep learning model to detect helmets in images using CNNs and bounding boxes.
 
-[🔗 View Project](https://github.com/MLDevX/helmet-detection)
+[🔗 View Project](https://github.com/Johnaaron0108/CNN_Helmet_Pred)
 
 ### 😷 Face Mask Classifier
 Classifies whether individuals are wearing face masks properly using image data and TensorFlow.
