@@ -23,6 +23,10 @@ A machine learning-based system that detects fake news from messages scraped fro
 
 [🔗 View Project](https://github.com/Johnaaron0108/FakeNewsDetect-_Telegram_Msgs)
 
+💬 Chatbot with NLP and Deep Learning  
+A context-aware chatbot built using NLTK and a deep neural network. It classifies user intents using tokenization, lemmatization, and a bag-of-words model, and responds intelligently based on trained intents.  
+🔗 [View Project](https://github.com/Johnaaron0108/chatbot-nlp)
+
 ---
 
 <h2>🛠️ Technologies & Tools</h2>
