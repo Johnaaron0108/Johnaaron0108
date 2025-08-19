@@ -25,11 +25,16 @@ A deep learning project that leverages **LSTM networks** to predict future weath
 - Implemented an **LSTM-based model** using TensorFlow  
 - Evaluated model accuracy with **RMSE** and **MAE** metrics  
 - Utilized **Pandas, NumPy, and Scikit-learn** for preprocessing and evaluation
+  
+🚀 Rocket_launchin_assist_AGENT
 
-### 😷 Fake News Detection
-A machine learning-based system that detects fake news from messages scraped from a Telegram channel using text preprocessing and a pre-trained model.
-
-[🔗 View Project](https://github.com/Johnaaron0108/FakeNewsDetect-_Telegram_Msgs)
+An AI-powered agent that integrates historical and real-time weather data via APIs, combining rule-based analysis with an LLM-driven natural language interface to evaluate weather conditions and provide safe rocket launch recommendations.
+📌 Features
+Fetches real-time weather data using OpenWeatherMap API
+Integrates historical datasets for context-aware analysis
+Combines rule-based safety checks with LLM reasoning
+Natural language interface for interactive queries and launch advisories
+Uses FAISS + SentenceTransformers for efficient semantic search over historical conditions
 
 💬 Chatbot with NLP and Deep Learning  
 A context-aware chatbot built using NLTK and a deep neural network. It classifies user intents using tokenization, lemmatization, and a bag-of-words model, and responds intelligently based on trained intents.  
