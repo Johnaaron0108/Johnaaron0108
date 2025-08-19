@@ -18,6 +18,14 @@ A deep learning model to detect helmets in images using CNNs and bounding boxes.
 
 [🔗 View Project](https://github.com/Johnaaron0108/CNN_Helmet_Pred)
 
+###  Time_Ser_LSTM  
+A deep learning project that leverages **LSTM networks** to predict future weather parameters using historical time-series data.  
+## 📌 Features  
+- Preprocessed meteorological datasets for time-series modeling  
+- Implemented an **LSTM-based model** using TensorFlow  
+- Evaluated model accuracy with **RMSE** and **MAE** metrics  
+- Utilized **Pandas, NumPy, and Scikit-learn** for preprocessing and evaluation
+
 ### 😷 Fake News Detection
 A machine learning-based system that detects fake news from messages scraped from a Telegram channel using text preprocessing and a pre-trained model.
 
