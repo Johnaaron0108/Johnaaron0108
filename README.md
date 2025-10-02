@@ -23,7 +23,9 @@ It combines **rule-based safety checks** with **LLM reasoning** for intelligent 
 - Context-aware analysis using historical datasets  
 - Combines **rules + LLM reasoning** for safe launch decisions  
 - **FAISS + SentenceTransformers** for semantic search  
-- Natural language interface for queries & advisories  
+- Natural language interface for queries & advisories
+
+🔗 [View Project](https://github.com/Johnaaron0108/Rocket_launchin_aaist_AGENT)
 
 ---
 
@@ -47,7 +49,9 @@ A deep learning project leveraging **LSTM networks** for weather forecasting usi
 - Preprocessed meteorological datasets  
 - Implemented **LSTM model** with TensorFlow  
 - Evaluated with **RMSE & MAE** metrics  
-- Data handling with **Pandas, NumPy, Scikit-learn**  
+- Data handling with **Pandas, NumPy, Scikit-learn**
+
+🔗 [View Project](https://github.com/Johnaaron0108/Time_Ser_LSTM)
 
 ---
 
@@ -58,7 +62,9 @@ An advanced ML project for **retrieving related text ↔ images** by mapping the
 - Image embeddings via **ResNet50**  
 - Text embeddings using **Sentence Transformers**  
 - Trained with **contrastive InfoNCE loss**  
-- Enables text-to-image and image-to-text search  
+- Enables text-to-image and image-to-text search
+
+🔗 [View Project](https://github.com/Johnaaron0108/Cross_model_retrieval)
 
 ---
 
