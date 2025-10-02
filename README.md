@@ -61,19 +61,6 @@ An advanced ML project for **retrieving related text ↔ images** by mapping the
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnaaron0108&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnaaron0108&layout=compact&theme=radical" alt="Top languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johnaaron0108&theme=radical" alt="GitHub streak"/>
-</p>
-
----
-
 ## 📌 Pinned Projects  
 
 <p align="center">
